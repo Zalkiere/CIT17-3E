@@ -11,8 +11,8 @@
     //Integers
     $int_var = 123456;
     $another_int = -10 + 10; 
-    print("$another_int<br>");
-    print("The integer is: $int_var<br>");
+    print("This the first integer: $another_int<br>");
+    print("The second integer is: $int_var<br>");
 
     //doubles
     $many = 2.2888800;
